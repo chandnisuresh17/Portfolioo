@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    position: relative;
+    left:40%;
+    top: 20%
+
+}
+
+
+.container div{
+
+ border: 1px;
+
+border-radius: 10px;
+margin:auto;
+ padding: 10px;
+
+}
+.container BOX-1 , BOX-2{
+    width:auto;
+    border:10px;
+    color: black;
+    
+}
+.container BOX-3{
+    width:80%;
+    border:10px;
+    color: black;
+}
